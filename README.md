@@ -2,7 +2,7 @@
 
 java 언어 사용
 
-1.자료구조, 알고리즘 관련 책 하나 사서
+1.DoIt 알고
 
 2.코드업 https://codeup.kr/index.php 
 
