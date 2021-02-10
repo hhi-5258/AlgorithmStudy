@@ -2,7 +2,7 @@
 
 java 언어 사용
 
-1.DoIt 알고
+1.DoIt 알고리즘 
 
 2.코드업 https://codeup.kr/index.php 
 
